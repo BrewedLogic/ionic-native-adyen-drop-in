@@ -1,0 +1,1 @@
+# ionic-native-adyen-drop-in
